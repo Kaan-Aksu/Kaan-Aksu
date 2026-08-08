@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan Aksu</h1>
 <h3 align="center">Code. Create. Repeat.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaan-aksu" alt="kaan-aksu" /></a> </p>
+
 
 - 🔭 I’m currently working on [KaanCode](https://www.kaancode.com)
 
